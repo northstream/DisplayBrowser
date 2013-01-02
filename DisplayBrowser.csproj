@@ -13,6 +13,7 @@
     <RootNamespace>DisplayBrowser</RootNamespace>
     <AssemblyName>DisplayBrowser</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -118,6 +119,7 @@
     </Compile>
     <Compile Include="Mobile.aspx.cs">
       <DependentUpon>Mobile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Mobile.aspx.designer.cs">
       <DependentUpon>Mobile.aspx</DependentUpon>
