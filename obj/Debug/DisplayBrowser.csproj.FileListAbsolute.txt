@@ -1,0 +1,5 @@
+e:\Projects\DisplayBrowser\bin\DisplayBrowser.dll
+e:\Projects\DisplayBrowser\bin\DisplayBrowser.pdb
+e:\Projects\DisplayBrowser\obj\Debug\ResolveAssemblyReference.cache
+e:\Projects\DisplayBrowser\obj\Debug\DisplayBrowser.dll
+e:\Projects\DisplayBrowser\obj\Debug\DisplayBrowser.pdb
